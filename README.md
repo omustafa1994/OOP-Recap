@@ -1,4 +1,4 @@
-# Ruby Object-Oriented Programming 
+# Object-Oriented Programming in Ruby 
 
 ### Description
 This application uses Sinatra; a DSL for quickly creating web applications in Ruby with minimal effort.
