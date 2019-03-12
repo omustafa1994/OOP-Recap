@@ -1,7 +1,7 @@
 # Object-Oriented Programming in Ruby 
 
 ### Description
-This application uses Sinatra; a DSL for quickly creating web applications in Ruby with minimal effort.
+This application demonstrates how OOP works using Ruby, through the use of inheritance and modules. The example uses living organisms, with a super-class and sub-classes of animals, animal types and types such as mammals.
 
 ### Languages used
 * Ruby
