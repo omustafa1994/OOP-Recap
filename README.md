@@ -1,4 +1,4 @@
-# Object-Oriented Programming in Ruby 
+# Object-Oriented Programming
 
 ### Description
 This application demonstrates how OOP works using Ruby, through the use of inheritance and modules. The example uses living organisms, with a super-class and sub-classes of animals, animal types and types such as mammals.
