@@ -19,6 +19,3 @@ class Dog < Animal
     end
 
 end
-
-fido = Dog.new
-fido.super_duper('1', '2')

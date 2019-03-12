@@ -24,9 +24,3 @@ module Mammals
     end
 
 end
-
-# jeff = Mammals::Biped.new
-# cat = Mammals::Quadraped.new
-
-# jeff.legs
-# cat.legs

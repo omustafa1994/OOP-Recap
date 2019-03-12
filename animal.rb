@@ -36,6 +36,3 @@ class Animal < LivingOrganism
     end
 
 end
-
-
-
